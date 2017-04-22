@@ -29,6 +29,8 @@ INSTRUCTIONS:
 
 4.All the images used in t=webpages are also added to the repository.
 
+5.A connect.php file is created to connect database and the php webpages.
+
 
 DESCRIPTION:
 
